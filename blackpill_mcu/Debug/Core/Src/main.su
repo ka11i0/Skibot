@@ -1,0 +1,8 @@
+main.c:56:6:SET_ADC_Port	16	static
+main.c:67:6:READ_ADCS	16	static,ignoring_inline_asm
+main.c:110:5:main	8	static
+main.c:161:6:SystemClock_Config	88	static
+main.c:206:13:MX_ADC1_Init	24	static
+main.c:280:13:MX_USART1_UART_Init	8	static
+main.c:313:13:MX_GPIO_Init	40	static
+main.c:342:6:Error_Handler	4	static,ignoring_inline_asm
